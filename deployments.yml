@@ -20,6 +20,6 @@ spec:
     spec:
       containers:
       - name: myweb
-        image: parag1014/myimage_1
+        image: parag1014/myimage_4
         ports:
         - containerPort: 8080
